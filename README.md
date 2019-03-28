@@ -2,5 +2,5 @@ A sample to host myself my stylus themes (outside of userstyle.org or openusercs
 
 Requirement: have [stylus](https://add0n.com/stylus.html) installed
 
-* Open this [link](https://raw.githubusercontent.com/usercss/sample/master/sample.user.css)
+* Open this [link](https://github.com/usercss/sample/raw/master/sample.user.css)
 * Click on the Install button.
